@@ -20,6 +20,7 @@ print("bool(0.0) => ", bool(0.0))  # bool(0.0) =>  False
 
 print("bool('False')=> ", bool('False'))  # bool('False')=>  True
 
+
 # False => False
 # 0 => False
 # "" => False
