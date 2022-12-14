@@ -1,6 +1,5 @@
 x = 10
 y = 20
-
 z = 10
 
 print("Id of x => ", id(x))  # Id of x =>  139812964139536(Note: Random)
